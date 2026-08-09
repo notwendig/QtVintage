@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/segment">
+        <file alias="led.png">LED/LED.png</file>
+        <file alias="seg7.png">SEG7/Display7Seg.png</file>
+        <file alias="switch.png">SWITCH/Switch.png</file>
+        <file alias="switch2.png">SWITCH2/Switch2.png</file>
+    </qresource>
+</RCC>
